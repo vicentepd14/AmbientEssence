@@ -11,3 +11,7 @@ Los integrantes Martin Araya, Vicente Pizarro y Camilo Villagra decidieron conti
 ## Laboratorio 1:
 Debido a los cambios logísticos de la universidad el curso original llevado por la profesora Maria Pino se disperso, llegando nuevos integrantes mientras que otros se fueron. 
 Debido a esto el grupo realizo la tarea de presentar ante los nuevos integrantes del curso, el proyecto realizado por AmbientEssence.
+
+---
+
+# **NOTA: porfavor leer el apartado de información sobre el equipo, leer acotaciones y sobre AmbientEssence**

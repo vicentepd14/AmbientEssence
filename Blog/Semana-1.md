@@ -1,1 +1,2 @@
-#Blog Ambient
+#Semana 1 
+##Reunión del grupo 

@@ -12,3 +12,6 @@
 * Camilo Villagra: Me comprometo a evaluar las condiciones de la zona y la factibilidad de poder implementar un prototipo funcional, esto por medio de entrevistas a la asociación, durante 3 semanas.
 1.- reenfoque del proyecto y feedback
   2.- permite tener ideas para implementar un proyecto optimo con una solución eficiente y acorde a lo necesitado.
+## Laboratorio:
+Durante el laboratorio se realizo la matriz aplicada al problema, en la cual, se analizo las dolencias y necesidades del usuario. Se analizaron las dolencias físicas que presenta la comunidad y como estos factores obligan a realizar una solución. 
+LOs problemas físicos y ambientales nos obligan a intentar construir un prototipo que permita el transporte eficaz de agua y su optimización 

@@ -1,1 +1,3 @@
-
+## Catedra
+En la catedra se desarrollo la idea de los atributos de soluciones existentes, asi como los conceptos que estas significan. En especifico se trabajo con la matriz de atributos, para asi desarrollar que tipo de atributos y cuales son los conceptos de las soluciones ya existentes a problemas similares. 
+Además se profundizo en el estado del arte, esto ya que la revisión del estado del arte es una tecnica fundamental para analizar posibles respuestas a una problematicas. Con esto logramos analizar que factores abordan las soluciones existentes, como puede ayudarnos a aportar información nueva al proyecto entre otros.
